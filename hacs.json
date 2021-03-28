@@ -1,0 +1,8 @@
+{
+    "name": "APC Home Integration",
+    "domains": [
+        "switch",
+        "sensor"
+    ],
+    "homeassistant": "2021.3.4"
+}
